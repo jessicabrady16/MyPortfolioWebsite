@@ -8,7 +8,6 @@ group :development, :test do
   gem "dotenv-rails"
 end
 # AI integration with Anthropic Claude
-gem "anthropic", ">= 1.0"
 # The modern asset pipeline for Rails [https://github.com/rails/propshaft]
 gem "propshaft"
 # Use sqlite3 as the database for Active Record
